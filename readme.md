@@ -1,5 +1,5 @@
-#Python Mail Client
-## using smtplib to automate mail send
+## Python Mail Client
+### using smtplib to automate mail send
 
 Short script that automates mail send using python. Some learnings:
 * Testing automated mail with gmail requires TLS session enablement using server.starttls() & port 587
